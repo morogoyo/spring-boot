@@ -1,0 +1,5 @@
+package com.boot.hello;
+
+public class GreetingController {
+
+}
